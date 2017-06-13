@@ -3,10 +3,15 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+Derrotar a los enemigos de cada nivel, ayudándote de los potenciadores que caerán desde la parte superior de la pantalla, para lograr avanzar de nivel. 
 
 ### Descripción del juego/aplicación
-La descripción del juego/aplicación es ...
+El juego consiste en derrotar a los enemigos de cada nivel. El ítem del que dispondrá el usuario será una nave espacial, con ella se podrá mover libremente por la parte inferior de la pantalla, pero no podrá aumentar su posición sobre el eje “y”. De la parte superior caerán asteroides los cuales deberá esquivar, o destruir, aparecerán de igual manera naves enemigas que lo atacaran, todo esto dependiendo del nivel en el que se encuentre el usuario.
+Habrá varios tipos de enemigos, los asteroides que caerán desde la parte superior de la pantalla, los aliens y la flota alienígena; en la cual sus disparos serán de menor daño a comparación del jefe que sus disparos son más fuertes además de contar con más resistencia.
+Para derrotarlos el usuario dispondrá de munición o potenciadores que caerá también desde la parte superior. 
+En cuanto a la munición tendremos vida, la cual ayudara a aumentar la salud, la munición; que su ataque no es tan poderoso y el misil; el cual, se caracteriza por ser un ataque potente.
+En el nivel 3 es  donde deberás derrotar al jefe para ganar
+
 
 ### Clases principales y sus características
 1. Heroe
@@ -31,11 +36,11 @@ La descripción del juego/aplicación es ...
 * Rapido
 
 ### Diagrama de clases
-![Diagrama de clases](url-del-diagrama.png)
+![Diagrama de clases](C:\Users\andresalejandro\Desktop\Adventure In The Space v1\diagrama)
 
 ### Autor(es)
 El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
+- @FelipeGlz
 - @andresaraiza94
 
 ### Materia(s)
