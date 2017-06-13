@@ -9,30 +9,26 @@ El objetivo del juego/aplicación es ...
 La descripción del juego/aplicación es ...
 
 ### Clases principales y sus características
-1. Clase 1
-* caracteristica1
-* caracteristica2
-* caracteristica3
+1. Heroe
+* Lento
+* Dispara efectivo
+* Resistente
 
-2. Clase 2
-* caracteristica1
-* caracteristica2
-* caracteristica3
+2. Enemigo
+* Diferentes
 
-3. Clase 3
-* caracteristica1
-* caracteristica2
-* caracteristica3
+3. Jefe
+* Resistente
+* Balas potentes
+* Rapido
 
-4. Clase 4
-* caracteristica1
-* caracteristica2
-* caracteristica3
+4. Alien
+* Facil de derrotar
+* Balas no efectivas
 
-5. Clase 5
-* caracteristica1
-* caracteristica2
-* caracteristica3
+5. Asteroide
+* Resistencia media
+* Rapido
 
 ### Diagrama de clases
 ![Diagrama de clases](url-del-diagrama.png)
@@ -40,7 +36,7 @@ La descripción del juego/aplicación es ...
 ### Autor(es)
 El autor(es) del proyecto son:
 - Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+- @andresaraiza94
 
 ### Materia(s)
 - Programación Orientada a Objetos
