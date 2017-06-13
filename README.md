@@ -1,6 +1,6 @@
 # AdventureInSpace
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![En construcción](https://github.com/acominf/AdventureInSpace/blob/master/images/menu.jpg)
 
 ### Objetivo del juego/aplicación
 Derrotar a los enemigos de cada nivel, ayudándote de los potenciadores que caerán desde la parte superior de la pantalla, para lograr avanzar de nivel. .
