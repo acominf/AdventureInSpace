@@ -3,7 +3,7 @@
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ### Objetivo del juego/aplicación
-Derrotar a los enemigos de cada nivel, ayudándote de los potenciadores que caerán desde la parte superior de la pantalla, para lograr avanzar de nivel. 
+Derrotar a los enemigos de cada nivel, ayudándote de los potenciadores que caerán desde la parte superior de la pantalla, para lograr avanzar de nivel. .
 
 ### Descripción del juego/aplicación
 El juego consiste en derrotar a los enemigos de cada nivel. El ítem del que dispondrá el usuario será una nave espacial, con ella se podrá mover libremente por la parte inferior de la pantalla, pero no podrá aumentar su posición sobre el eje “y”. De la parte superior caerán asteroides los cuales deberá esquivar, o destruir, aparecerán de igual manera naves enemigas que lo atacaran, todo esto dependiendo del nivel en el que se encuentre el usuario.
