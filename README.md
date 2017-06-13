@@ -36,7 +36,7 @@ En el nivel 3 es  donde deberás derrotar al jefe para ganar
 * Rapido
 
 ### Diagrama de clases
-![Diagrama de clases](C:\Users\andresalejandro\Desktop\Adventure In The Space v1\diagrama)
+![Diagrama de clases](https://github.com/acominf/AdventureInSpace/blob/master/images2/diagrama%20clases.png)
 
 ### Autor(es)
 El autor(es) del proyecto son:
